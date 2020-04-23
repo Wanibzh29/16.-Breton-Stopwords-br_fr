@@ -1,7 +1,9 @@
 # Stopwordsbr-fr-breton
+**Description
 The most comprehensive collection of stopwords for the breton language.
-
 You will find here a draft list of stopwords for Breton.
+
+**An ISO 639 cod problem
 
 The ISO 639 Code for Brazilian "pt-BR" is very similar to the breton one "br" so sometimes that causes some mistakes.
 
@@ -21,7 +23,11 @@ Thanks a lot to him for his correction and advices.
 
 For you to know:
 
+**A few conventions
+
 Letters between "" aren't to be taken into account.
+
+**This work is based on
 
 The list of breton stopwords has been done with help of the french and english lists of stopwords and also all this websites:
 
