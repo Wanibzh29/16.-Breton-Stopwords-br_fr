@@ -16,7 +16,7 @@
 
 - We have decided to create another correct list of stopwords for the Breton Language, while we were waiting him to correct the mistacke. We have worked hard on this list of stopwords, and we are proud of our work.
 
--Thanks a lot to @Tornoz for his correction and advices.
+- Thanks a lot to @Tornoz for his correction and advices.
 
 **A few conventions
 
