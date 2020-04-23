@@ -3,24 +3,21 @@ The most comprehensive collection of stopwords for the breton language.
 
 You will find here a draft list of stopwords for Breton.
 
+The ISO 639 Code for Brazilian "pt-BR" is very similar to the breton one "br" so sometimes that causes some mistakes.
 
-The other stopwords list you will find here:
+As an exemple of that, the other stopwords list you will find here:
 
 https://github.com/stopwords-iso/stopwords-br
 
-is in fact for the Brazilian Language, and here it will be only for the Breton Language.
+was at the beginning of everything containing a list of Stopwords for the Brazilian Language, whereas the readme file was mentionning that it was for the Breton language.
 
-We have already notified "Gene Diaz" that it was a mistake with the ISO Code, and since we don't have any answer from him.
+We (a friend of mine and I) have notified "Gene Diaz" that it was a mistake with the ISO Code, so he had fixed it :D.
 
-The ISO Code for Brazilian "br" is very similar to the breton one "br_fr" so sometimes that causes some mistakes.
-
-So, I have prefered to create another correct list of stopwords for the Breton Language.
+So, I have prefered to create another correct list of stopwords for the Breton Language, while we were waiting him to correct the mistacke.
 
 A friend of mine https://github.com/tornoz and I, have worked hard on this list of stopwords.
 
 Thanks a lot to him for his correction and advices.
-
-I hope We will have an answer from Gene Diaz shortly :)
 
 For you to know:
 
@@ -43,3 +40,5 @@ The list of breton stopwords has been done with help of the french and english l
 7. http://www.devri.bzh/
 
 8. http://hizivandeiz.free.fr/loadnevez/210.htm
+
+9. https://geriafurch.bzh/br
