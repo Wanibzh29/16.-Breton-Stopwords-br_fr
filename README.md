@@ -1,32 +1,32 @@
 # Stopwordsbr-fr-breton
 **Description
 
-- The most comprehensive collection of stopwords for the breton language.
+- The most comprehensive collection of stopwords for the Breton language.
 - You will find here a draft list of stopwords for Breton.
 
-**An ISO 639 cod problem
+**An ISO 639 code problem
 
-- The ISO 639 Code for Brazilian "pt-BR" is very similar to the breton one "br" so sometimes that causes some mistakes.
+- The ISO 639 Code for Brazilian "pt-BR" is very similar to the Breton one "br" so sometimes that causes some mistakes.
 
-- As an exemple of that, the other stopwords list you will find here: https://github.com/stopwords-iso/stopwords-br
+- As an example of that, the other stopwords list you will find here: https://github.com/stopwords-iso/stopwords-br
 
-- This was at the beginning of everything containing a list of Stopwords for the Brazilian Language, whereas the readme file was mentionning that it was for the Breton language.
+- It originally contained a list of stopwords for the Brazilian Language, whereas the readme file mentioned that it was for the Breton language.
 
-- We (a friend of mine https://github.com/tornoz and I) have notified "Gene Diaz" that it was a mistacke with datas contained, so he had fixed it :D.
+- We (a friend of mine https://github.com/tornoz and I) have notified "Gene Diaz" of the mistake, and he fixed it :D.
 
-- We have decided to create another correct list of stopwords for the Breton Language, while we were waiting him to correct the mistacke. We have worked hard on this list of stopwords, and we are proud of our work.
+- We have decided to create another correct list of stopwords for the Breton Language, while we were waiting for him to correct the mistake. We have worked hard on this list of stopwords, and we are proud of our work.
 
-- Thanks a lot to @Tornoz for his correction and advices.
+- Thanks a lot to @Tornoz for his correction and advice.
 
 **A few conventions
 
 - Letters between {} are letters which can mutate into other ones, i.e:
-- {g}ran means in particular cases the 'g' mutates, so it desappear.
--  When there is several possibility of mutations it has been chosen to show all the possibilities, until now, but it could change.
+- {g}ran means in particular cases the 'g' mutates, so it disappears.
+-  When there are several possibilities for mutations it has been decided to show all the possibilities, for now, but that could change.
 
 **This work is based on
 
-- The list of breton stopwords has been done with help of the french and english lists of stopwords and also all this websites:
+- The list of Breton stopwords has been created with the help of French and English lists of stopwords and also all these websites:
 
 1. http://www.fr.brezhoneg.bzh/36-termofis.htm?TERME=&NOM=0&LANGUE=_FR
 
