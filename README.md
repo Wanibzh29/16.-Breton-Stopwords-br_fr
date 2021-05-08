@@ -9,12 +9,12 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 - Contact of the project owner: per.morvan.bzh29@gmail.com.
 
 
-## I. Description
+## II. Description
 
 - The most comprehensive collection of stopwords for the Breton language.
 - You will find here a draft list of stopwords for Breton.
 
-## II. An ISO 639 code problem
+## III. An ISO 639 code problem
 
 - The ISO 639 Code for Brazilian "pt-BR" is very similar to the Breton one "br" so sometimes that causes some mistakes.
 
@@ -28,13 +28,13 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 
 - Thanks a lot to @Tornoz for his correction and advice.
 
-## III. A few conventions
+## IV. A few conventions
 
 - Letters between {} are letters which can mutate into other ones, i.e:
 - {g}ran means in particular cases the 'g' mutates, so it disappears.
 -  When there are several possibilities for mutations it has been decided to show all the possibilities, for now, but that could change.
 
-## IV. This work is based on
+## V. This work is based on
 
 - The list of Breton stopwords has been created with the help of French and English lists of stopwords and also all these websites:
 
