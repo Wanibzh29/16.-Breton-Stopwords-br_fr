@@ -1,10 +1,18 @@
 # Stopwordsbr-fr-breton
-**Description
+
+- Copyright (c) 2001-2020 Korvigelloù An Drouizig
+drouizig@drouizig.org - http://www.drouizig.org.
+- Copyright (c) Bed niverel: Poellgor “Bed niverel” — #brezhoneg & teknologiezhioù ar c'helaouiñ hag ar c'hehentiñ — Langue bretonne & #TIC (#NTIC) - #breton language and ICT.
+poellgor@bedniverel.bzh - https://bedniverel.bzh
+
+- Contact of the project owner: per.morvan.bzh29@gmail.com.
+
+** Description
 
 - The most comprehensive collection of stopwords for the Breton language.
 - You will find here a draft list of stopwords for Breton.
 
-**An ISO 639 code problem
+** An ISO 639 code problem
 
 - The ISO 639 Code for Brazilian "pt-BR" is very similar to the Breton one "br" so sometimes that causes some mistakes.
 
@@ -18,13 +26,13 @@
 
 - Thanks a lot to @Tornoz for his correction and advice.
 
-**A few conventions
+** A few conventions
 
 - Letters between {} are letters which can mutate into other ones, i.e:
 - {g}ran means in particular cases the 'g' mutates, so it disappears.
 -  When there are several possibilities for mutations it has been decided to show all the possibilities, for now, but that could change.
 
-**This work is based on
+** This work is based on
 
 - The list of Breton stopwords has been created with the help of French and English lists of stopwords and also all these websites:
 
