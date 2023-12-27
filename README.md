@@ -1,4 +1,4 @@
-# Stopwords-br-fr-breton
+# Stopwords_br-fr-breton
 
 ## I. Copyrights
 - Copyright (c) 2003-2023 An Drouizig
