@@ -1,7 +1,7 @@
 # Stopwordsbr-fr-breton
 
 ## I. Copyrights
-- Copyright (c) 2001-2020 Korvigelloù An Drouizig
+- Copyright (c) 2003-2023 An Drouizig
 drouizig@drouizig.org - http://www.drouizig.org.
 - Copyright (c) Bed niverel: Poellgor “Bed niverel” — #brezhoneg & teknologiezhioù ar c'helaouiñ hag ar c'hehentiñ — Langue bretonne & #TIC (#NTIC) - #breton language and ICT.
 poellgor@bedniverel.bzh - https://bedniverel.bzh
